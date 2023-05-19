@@ -1,3 +1,5 @@
+Alunos: João Antônio Guedes Moreira e Kleison Vitoriano da Silva.
+
 Resumo: Um CRUD (Create, Read, Update, Delete) é uma parte essencial de um projeto de site para armazenar informações sobre jogos. Ele se refere às operações básicas de criação, leitura, atualização e exclusão de dados relacionados aos jogos armazenados no sistema. O CRUD permite aos usuários interagir de forma eficiente com o banco de dados do site, permitindo que eles adicionem novos jogos, visualizem informações existentes, atualizem detalhes e até mesmo removam jogos, se necessário.
 
 Principais Funcionalidades do CRUD:
